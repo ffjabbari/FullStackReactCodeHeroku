@@ -32,5 +32,8 @@
     "path-parser": "^6.1.0",
     "sendgrid": "^5.1.2",
     "stripe": "^8.154.0"
+  },
+  "engines": {
+    "node": "10.x"
   }
 }
